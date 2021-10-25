@@ -197,6 +197,7 @@ input[type="search"]::-webkit-search-results-decoration {
 
 /* slider  */
 .slide {
+  background-size: cover;
   display: flex;
   position: relative;
   flex-direction: column;
