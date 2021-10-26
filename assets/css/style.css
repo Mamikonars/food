@@ -387,7 +387,7 @@ input[type="search"]::-webkit-search-results-decoration {
 /* delivery */
 
 .delivery {
-  margin-top: 110px;
+  margin-top: 78px;
   margin-bottom: 50px;
 }
 
@@ -719,6 +719,7 @@ footer {
 }
 
 .copyright {
+  font-size: 13px;
   padding: 14px 0;
   text-align: center;
   background-color: rgb(238 237 237 / 88%);
@@ -726,7 +727,7 @@ footer {
 }
 
 .copyright-desc {
-  color: rgb(0 0 0 / 75%);
+  color: rgb(0 0 0 / 53%);
 }
 
 .author {
